@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/revsys/django-health-check/commit/24b9269ab09bf7a97a9ffc374dd806d6f29cd25f",
       "git:hexsha": "24b9269ab09bf7a97a9ffc374dd806d6f29cd25f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/revsys/django-health-check/commit/5f2cc2da82df96fd38f2bd7e005131c86b0f8cf5",
