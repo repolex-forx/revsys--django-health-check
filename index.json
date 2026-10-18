@@ -1,0 +1,11 @@
+{
+  "org": "revsys",
+  "repo": "django-health-check",
+  "versions": [
+    {
+      "commit": "24b9269ab09bf7a97a9ffc374dd806d6f29cd25f",
+      "tag": "",
+      "parsed_at": "2026-10-18T10:15:51.918276+00:00"
+    }
+  ]
+}
